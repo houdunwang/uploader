@@ -1,6 +1,6 @@
 # 上传组件
 
-[![Build Status](https://travis-ci.org/houdunwang/laravel-uploader.svg?branch=master)](https://travis-ci.org/houdunwang/laravel-uploader)
+[![Build Status](https://travis-ci.org/houdunwang/uploader.svg?branch=master)](https://travis-ci.org/houdunwang/uploader)
 
 方便的多网关上传组件，目前支持阿里云OSS，以后支持腾讯云等多平台上传处理。
 
